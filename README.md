@@ -3,14 +3,14 @@
 
 <br>
 
-## ✍️ 글쓰기
+# ✍️ 글쓰기
 - [레벨 1 글쓰기](https://github.com/zangsu/woowa-writing/blob/level-2/Level1.md)
 - [레벨 2 글쓰기](https://github.com/zangsu/woowa-writing/blob/level-2/Level2.md)
 - [레벨 3 글쓰기](https://github.com/zangsu/woowa-writing/blob/level-3/Level3.md)
 
 <br>
 
-## 💻 Level 4
+# 💻 Level 4
 
 
 ### Tomcat 구현하기
@@ -65,7 +65,7 @@
 
 <br>
 
-## 💻 레벨 3
+# 💻 레벨 3
 
 ### 팀 프로젝트 - 코드잽
 - [repository](https://github.com/woowacourse-teams/2024-code-zap)
@@ -75,7 +75,7 @@
 <br>
 
 
-## 💻 레벨 2
+# 💻 레벨 2
 
 ### 방탈출 예약 관리
 `2024.04.16` ~ `2024.04.29`
@@ -145,7 +145,7 @@
 
 <br>
 
-## 💻 레벨 1
+# 💻 레벨 1
 
 ### 자동차 경주
 
@@ -196,7 +196,7 @@
 <br>
 
 
-## 💻 프리코스
+# 💻 프리코스
 
 ### 숫자 야구
 `2023.10.19` ~ `2023.10.26`
